@@ -26,6 +26,8 @@ Step 5: If the connection is successful then clone the project.
 
 Step 6: Once the gradle build is finsihed you can run the project.
 
+
+
 Screenshots of the App
 
 
