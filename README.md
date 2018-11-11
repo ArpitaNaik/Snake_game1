@@ -29,6 +29,4 @@ Step 6: Once the gradle build is finsihed you can run the project.
 Screenshots of the App
 
 ![and1](https://user-images.githubusercontent.com/21280813/48316189-45339200-e606-11e8-93bb-4156f9f05c85.jpg)
-!
-
-![screenshot_2018-11-11-23-01-49](https://user-images.githubusercontent.com/21280813/48316175-0ef61280-e606-11e8-8bf3-1f40f2c0995c.png)
+!![screenshot_2018-11-11-23-01-49](https://user-images.githubusercontent.com/21280813/48316175-0ef61280-e606-11e8-8bf3-1f40f2c0995c.png)
